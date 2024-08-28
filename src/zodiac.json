@@ -4,7 +4,7 @@
         "name": "มังกร (Capricorn)",
         "time": "22 ธันวาคม - 19 มกราคม",
         "detail": "มีความรับผิดชอบ, มีวินัยในตัวเอง, มุ่งมั่น, ใจเย็น, รักความสำเร็จ, เป็นคนที่ยึดมั่นในเป้าหมาย",
-        "image": "./src/components/img/1capricorn.jpg"
+        "image": "src/components/img/1capricorn.jpg"
     },
     {
         "id": 2,
