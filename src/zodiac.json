@@ -11,7 +11,8 @@
         "name": "ราศีกุมภ์ (Aquarius)",
         "time": "20 มกราคม - 18 กุมภาพันธ์",
         "detail": "มีความคิดสร้างสรรค์, เป็นนักปฏิวัติ, ชอบช่วยเหลือสังคม, เป็นคนไม่ชอบอยู่ในกรอบ, รักอิสระ, มักมีความคิดล้ำสมัย",
-        "image": "./src/components/img/2aquarius.jpg"
+        "image": "https://media.istockphoto.com/id/1060387110/vector/aquarius-zodiac-sign-horoscope-symbol-blue-vector.jpg?s=612x612&w=0&k=20&c=z22TN8FHWKMjxLEUrSBZAS8aFMrckARHn2d2hoJBrX4="
+        /*"image": "./src/components/img/2aquarius.jpg"*/
     },
     {
         "id": 3,
