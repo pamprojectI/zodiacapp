@@ -18,7 +18,7 @@
         "name": "มีน (Pisces)",
         "time": "19 กุมภาพันธ์ - 20 มีนาคม",
         "detail": "จินตนาการสูง, อ่อนไหว, มีความเมตตา, มีจิตวิญญาณศิลปิน, เป็นคนโรแมนติก, ใส่ใจความรู้สึกของคนอื่น",
-        "image": "./src/components/img/3pisces.jpg"
+        "image": "../src/components/img/3pisces.jpg"
     },
     {
         "id": 4,
