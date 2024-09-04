@@ -3,6 +3,7 @@
         <p>Copyright 2024 © Design by pamproject</p>
     </div>
 </template>
+
 <script>
 export default {
     

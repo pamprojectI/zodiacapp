@@ -6,7 +6,7 @@
             <div class="container">
                 <h2><b>ราศี :: {{ name }}</b></h2> 
                 <h4><b>วันที่ :: {{ time }}</b></h4> 
-                <p>ลักษณะนิสัย :: {{ detail}} </p> 
+                <p>ลักษณะนิสัย :: {{ detail }} </p> 
             </div>
         </div>
     </div>

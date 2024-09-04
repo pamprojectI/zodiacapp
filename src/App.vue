@@ -13,11 +13,18 @@ import items from './zodiac.json'
   <main>
     <h1>Zodiac App</h1>
     <div className="grid-container">
-      <!-- <Contant v-bind="izos[0]"/>
-      <Contant v-bind="izos[1]"/>
-      <Contant v-bind="izos[2]"/>
-      <Contant v-bind="izos[3]"/>
-      <Contant v-bind="izos[4]"/> -->
+      <!-- <Contant v-bind="items[0]"/>
+      <Contant v-bind="items[1]"/>
+      <Contant v-bind="items[2]"/>
+      <Contant v-bind="items[3]"/>
+      <Contant v-bind="items[4]"/>
+      <Contant v-bind="items[5]"/>
+      <Contant v-bind="items[6]"/>
+      <Contant v-bind="items[7]"/>
+      <Contant v-bind="items[8]"/>
+      <Contant v-bind="items[9]"/>
+      <Contant v-bind="items[10]"/>
+      <Contant v-bind="items[11]"/> -->
       <Contant v-for="item in items" :key="item.id" v-bind="item" />
     </div>
 

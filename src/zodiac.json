@@ -18,14 +18,14 @@
         "name": "มีน (Pisces)",
         "time": "19 กุมภาพันธ์ - 20 มีนาคม",
         "detail": "จินตนาการสูง, อ่อนไหว, มีความเมตตา, มีจิตวิญญาณศิลปิน, เป็นคนโรแมนติก, ใส่ใจความรู้สึกของคนอื่น",
-        "image": "./src/components/img/3pisces.jpg"
+        "image": "/src/components/img/3pisces.jpg"
     },
     {
         "id": 4,
         "name": "เมษ (Aries)",
         "time": "21 มีนาคม - 19 เมษายน",
         "detail": "มุ่งมั่น, กระตือรือร้น, กล้าหาญ, ชอบการแข่งขัน, มีความเป็นผู้นำ, ไม่กลัวการเผชิญหน้ากับปัญหา",
-        "image": "./src/components/img/4aries.jpg"
+        "image": "src/components/img/4aries.jpg"
     },
     {
         "id": 5,
